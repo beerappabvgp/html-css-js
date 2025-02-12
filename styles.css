@@ -1,0 +1,40 @@
+img {
+    width: 350px;
+    height: 300px;
+}
+
+.container {
+    width: 500px;
+    height: 500px;
+    /* position: relative; */
+}
+
+p {
+    position: relative;
+    top: 1000px;
+    left: 100px;
+}
+
+#title {
+    height: 400px;
+    position: absolute;
+    top: 1000px;
+}
+
+
+
+.nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.links a {
+    margin-left: 18px;
+}
+
+
+/* 100px */
+/* 100 // 25 = 4 */
+/* each image 25px */
